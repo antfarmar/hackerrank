@@ -1,0 +1,18 @@
+3
+2 3
+*.M
+.X.
+1
+4 11
+.X.X......X
+.X*.X.XXX.X
+.XX.X.XM...
+......XXXX.
+3
+5 11
+.X.X......X
+.X*.X.XXX.X
+.XX.X.XM...
+......XXXX.
+.XXXXXXXXXX
+3
