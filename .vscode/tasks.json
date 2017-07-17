@@ -1,15 +1,14 @@
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
-
 	"version": "0.1.0",
 	"command": "go",
 	"isShellCommand": true,
-	"showOutput": "Always",
+	"showOutput": "always",
 	"tasks": [
 		{
 			"taskName": "run",
-			"args": [ "-v", "${file}"],
+			"args": ["${file}"],
 			"isBuildCommand": true
 		},
 		{
