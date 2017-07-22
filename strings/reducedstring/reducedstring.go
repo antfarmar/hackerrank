@@ -34,10 +34,6 @@ func main() {
 // SOLUTION ==============================================
 
 func solution(s string) string {
-	// if len(s) == 1 {
-	// 	return s
-	// }
-
 	for i := 0; i < len(s)-1; {
 		if s[i] == s[i+1] {
 			s = s[:i] + s[i+2:]
